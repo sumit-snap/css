@@ -1,0 +1,40 @@
+body{
+background: #e6e6e6;
+}
+
+nav{
+text-align: center;
+color: #80dfff;
+}
+
+img{
+margin: 2px;
+border: 10px black;
+
+}
+h1{
+color: #66b3ff;
+text-align: center;
+}
+
+h2{
+color: #ffffff;
+background: #cccccc;
+text-align: left;
+}
+
+h3{
+
+}
+
+#smoothies{
+background: #f2f2f2;
+}
+
+#tiramisu{
+background: #f2f2f2;
+}
+
+#cake{
+background: #f2f2f2;
+}
