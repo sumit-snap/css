@@ -7,7 +7,7 @@ body{
 
 nav{
 	text-align: center;
-	color: #80dfff;
+	color: #00cc00;
 }
 
 nav li{
@@ -66,4 +66,8 @@ Footer{
 	color: #66b3ff;
 	text-align: center;
 	font-size: 33px;
+}
+
+a{
+	color: #00cc00;
 }
