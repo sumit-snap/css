@@ -1,14 +1,13 @@
 body{
-background: #e6e6e6;
-margin: 160px;
-text-align: justify;
-line-height: 25px;
+	background: #e6e6e6;
+	margin: 160px;
+	text-align: justify;
+	line-height: 25px;
 }
 
 nav{
-
-text-align: center;
-color: #80dfff;
+	text-align: center;
+	color: #80dfff;
 }
 
 nav li{
@@ -17,47 +16,46 @@ nav li{
 }
 
 .img{
-margin: 2px;
-border-width: 3px;
-border-style: solid;
+	margin: 2px;
+	border-width: 3px;
+	border-style: solid;
 
 }
+
 h1{
-font-size: 50px;
-color: #66b3ff;
-text-align: center;
+	font-size: 50px;
+	color: #66b3ff;
+	text-align: center;
 }
 
 h2{
-color: #ffffff;
-background: #cccccc;
-text-align: left;
+	color: #ffffff;
+	background: #cccccc;
+	text-align: left;
 }
 
 h3{
-color: #ff661a;
-text-decoration: underline #66b3ff;
+	color: #ff661a;
+	text-decoration: underline #66b3ff;
 }
 
 #smoothies{
-padding: 50px;
-background: #f2f2f2;
+	padding: 50px;
+	background: #f2f2f2;
 }
 
 #tiramisu{
-padding: 50px;
-background: #f2f2f2;
+	padding: 50px;
+	background: #f2f2f2;
 }
 
 #cake{
-padding: 50px;
-background: #f2f2f2;
+	padding: 50px;
+	background: #f2f2f2;
 }
 
 li{
 	list-style-position: inside;
-	
-	
 }
 
 Footer{
